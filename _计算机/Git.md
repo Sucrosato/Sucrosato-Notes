@@ -13,6 +13,7 @@ git commit -m \<info>
 git log --oneline
 #### 远程仓库
 设置ssh密钥（本地、github的公钥）
+ssh-keygen -t rsa -b 4096
 git push
 git pull
 
