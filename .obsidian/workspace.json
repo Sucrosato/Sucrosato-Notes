@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_物理/纳米材料与技术/4 纳米材料的表征.md",
+                "file": "_物理/半导体物理与器件/-1 复习提纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 纳米材料的表征"
+              "title": "-1 复习提纲"
             }
           },
           {
@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_物理/半导体物理与器件/3 半导体界面的电子现象.md",
+                "file": "_物理/半导体物理与器件/4 各种半导体二极管.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 半导体界面的电子现象"
+              "title": "4 各种半导体二极管"
             }
           },
           {
-            "id": "1ff1bf9290d94451",
+            "id": "cd559e6691ccfe45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/纳米材料与技术/-1 考前.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-1 考前"
+            }
+          },
+          {
+            "id": "0eab66192a464c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,7 +77,8 @@
               "title": "3.1 0D材料的制备"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,55 +251,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d3603cd93e426c2",
+  "active": "0eab66192a464c4f",
   "lastOpenFiles": [
-    "_物理/半导体物理与器件/半导体物理学 刘恩科 第七版 (刘恩科) (Z-Library).pdf",
-    "_物理/纳米材料与技术/4 纳米材料的表征.md",
-    "_计算机/Git.md",
-    "README.md",
-    "_计算机/数据结构/5 二叉树/5D 二叉树实现.md",
-    "_计算机/算法基础课/3 搜索与图论/6 Dijkstra.md",
-    "_计算机/算法基础课/3 搜索与图论/2 bfs.md",
-    "_物理/半导体物理与器件/-1 复习.md",
-    "_物理/半导体物理与器件/3 半导体界面的电子现象.md",
-    "_物理/纳米材料与技术/3.1 0D材料的制备.md",
-    "_物理/纳米材料与技术/2 纳米材料和纳米技术概述.md",
-    "_物理/纳米材料与技术/1 绪论.md",
     "_物理/纳米材料与技术/-1 考前.md",
-    "杂项/备忘录/备忘录.md",
+    "_物理/纳米材料与技术/3.1 0D材料的制备.md",
+    "_物理/半导体物理与器件/4 各种半导体二极管.md",
+    "_物理/半导体物理与器件/-1 复习.md",
     "_物理/半导体物理与器件/-1 复习提纲.md",
+    "Pasted image 20250525212708.png",
+    "_物理/半导体物理与器件/3 半导体界面的电子现象.md",
+    "_计算机/LeetCode/3068 最大节点价值之和！.md",
+    "Obsidian/Markdown语法.md",
+    "杂项/生词.md",
+    "杂项/diffusion/未命名.md",
+    "杂项/草稿/草稿.md",
+    "杂项/备忘录/进展.md",
+    "杂项/备忘录/备忘录.md",
+    "杂项/备忘录/250425班会.md",
+    "杂项/备忘录/250204.md",
+    "杂项/备忘录/250401班会.md",
+    "杂项/备忘录/250403组会.md",
+    "杂项/备忘录/250403组会吗.md",
+    "杂项/备忘录/250418组会.md",
+    "README.md",
+    "z图片/Pasted image 20250417143716.png",
+    "z图片/Pasted image 20250407170333.png",
+    "杂项/草稿/draft.md",
+    "杂项/保研/南大需要什么？.md",
+    "杂项/保研/MAC需要什么.md",
+    "杂项/保研/浙大导师.md",
+    "杂项/保研/_需要什么.md",
+    "杂项/备忘录/大四上选课.md",
+    "_物理/固体物理学/1 晶体结构/1.1.pdf",
+    "_物理/半导体物理与器件/半导体物理学 刘恩科 第七版 (刘恩科) (Z-Library).pdf",
     "Pasted image 20250524215356.png",
-    "_计算机/数据结构/5 二叉树/5F 中序遍历.md",
-    "_计算机/数据结构/5 二叉树/5E 先序遍历.md",
     "z图片/1747022194098.jpg",
     "z图片/未命名.canvas",
     "z图片/未命名 1.canvas",
     "z图片/Pasted image 20250512141115.png",
-    "玩/看过的.md",
-    "玩/想看的影视.md",
     "z图片/Pasted image 20250524153308.png",
     "z图片/Pasted image 20250524152257.png",
-    "_物理/半导体物理与器件/2 半导体的电学性质.md",
     "z图片/Pasted image 20250524143541.png",
     "z图片/Pasted image 20250524143530.png",
-    "z图片/Pasted image 20250524143520.png",
-    "_计算机/算法基础课/3 搜索与图论/1 dfs.md",
-    "_计算机/算法基础课/3 搜索与图论/5 有向图的拓扑序列.md",
-    "_计算机/数据结构/6 图/6F 拓扑排序.md",
-    "_计算机/算法基础课/3 搜索与图论/4 树与图的广度优先搜索.md",
-    "_计算机/算法基础课/3 搜索与图论/3 树与图的深度优先遍历.md",
-    "_计算机/LeetCode/0 目录.md",
     "_计算机/算法基础课/3 搜索与图论",
-    "z图片/Pasted image 20250521214354.png",
-    "z图片/Pasted image 20250521214341.png",
     "Pasted image 20250519144448.png.baiduyun.uploading.cfg",
     "Pasted image 20250519141609.png.baiduyun.uploading.cfg",
     "Pasted image 20250519141026.png.baiduyun.uploading.cfg",
     "_计算机/LeetCode/hot100/560 和为k的子数组.md.baiduyun.uploading.cfg",
     "_计算机/LeetCode/0 目录.md.baiduyun.uploading.cfg",
     "_物理/固体物理学/5 金属电子论/5.2 金属的费米面.md.baiduyun.uploading.cfg",
-    "_物理/科学研究方法/3 科技论文与学术表达.md.baiduyun.uploading.cfg",
-    "_物理/固体物理学/5 金属电子论/5.4 金属的电导、热导.md.baiduyun.uploading.cfg",
-    "_计算机/算法基础课/2 数据结构"
+    "_物理/科学研究方法/3 科技论文与学术表达.md.baiduyun.uploading.cfg"
   ]
 }

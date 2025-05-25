@@ -15,3 +15,15 @@ git log --oneline
 设置ssh密钥（本地、github的公钥）
 git push
 git pull
+
+## reset
+git reset --soft/hard/mixed HEAD^
+git reflog
+
+## dif
+git diff
+git diff HEAD //工作区和版本区
+git diff --cached //
+git diff \<id1> \<id2>
+HEAD~n //~或^n：上n(1)个版本
+
