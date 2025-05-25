@@ -11,3 +11,7 @@ git status
 git add \<file>  # 通配符
 git commit -m \<info>
 git log --oneline
+#### 远程仓库
+设置ssh密钥（本地、github的公钥）
+git push
+git pull
