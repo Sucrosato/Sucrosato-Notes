@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "f308e84ccac31971",
+    "type": "split",
+    "children": [
+      {
+        "id": "a138fb8b8aeaf681",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67fc2f65b88ca79a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_计算机/Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          },
+          {
+            "id": "98e22ad40bd0b3c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/半导体物理与器件/-1 复习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-1 复习"
+            }
+          },
+          {
+            "id": "03671bc5876173f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/半导体物理与器件/3 半导体界面的电子现象.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 半导体界面的电子现象"
+            }
+          },
+          {
+            "id": "1ff1bf9290d94451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/纳米材料与技术/3.1 0D材料的制备.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 0D材料的制备"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a95dfae1cdcfde5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da2f2df2064c090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d3603cd93e426c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "23f429fb53e472f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0401d3203cf825a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "45fcaae729182322",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee39f1cb48e9c3a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3068a87385e718c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_计算机/数据结构/13 串/C KMP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "C KMP 的反向链接列表"
+            }
+          },
+          {
+            "id": "52255fd57ed4424d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_计算机/数据结构/13 串/C KMP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "C KMP 的出链列表"
+            }
+          },
+          {
+            "id": "05ef609c43b28d7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ca0e700bb62e9d6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_计算机/Git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Git 的大纲"
+            }
+          },
+          {
+            "id": "ad2d4b386a8da751",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "67fc2f65b88ca79a",
+  "lastOpenFiles": [
+    "_计算机/数据结构/5 二叉树/5D 二叉树实现.md",
+    "_计算机/Git.md",
+    "_计算机/算法基础课/3 搜索与图论/6 Dijkstra.md",
+    "_计算机/算法基础课/3 搜索与图论/2 bfs.md",
+    "_物理/半导体物理与器件/-1 复习.md",
+    "_物理/半导体物理与器件/3 半导体界面的电子现象.md",
+    "_物理/纳米材料与技术/3.1 0D材料的制备.md",
+    "_物理/纳米材料与技术/2 纳米材料和纳米技术概述.md",
+    "_物理/纳米材料与技术/1 绪论.md",
+    "_物理/纳米材料与技术/-1 考前.md",
+    "杂项/备忘录/备忘录.md",
+    "_物理/半导体物理与器件/-1 复习提纲.md",
+    "Pasted image 20250524215356.png",
+    "_计算机/数据结构/5 二叉树/5F 中序遍历.md",
+    "_计算机/数据结构/5 二叉树/5E 先序遍历.md",
+    "z图片/1747022194098.jpg",
+    "z图片/未命名.canvas",
+    "z图片/未命名 1.canvas",
+    "z图片/Pasted image 20250512141115.png",
+    "玩/看过的.md",
+    "玩/想看的影视.md",
+    "z图片/Pasted image 20250524153308.png",
+    "z图片/Pasted image 20250524152257.png",
+    "_物理/半导体物理与器件/2 半导体的电学性质.md",
+    "z图片/Pasted image 20250524143541.png",
+    "z图片/Pasted image 20250524143530.png",
+    "z图片/Pasted image 20250524143520.png",
+    "_计算机/算法基础课/3 搜索与图论/1 dfs.md",
+    "_计算机/算法基础课/3 搜索与图论/5 有向图的拓扑序列.md",
+    "_计算机/数据结构/6 图/6F 拓扑排序.md",
+    "_计算机/算法基础课/3 搜索与图论/4 树与图的广度优先搜索.md",
+    "_计算机/算法基础课/3 搜索与图论/3 树与图的深度优先遍历.md",
+    "_计算机/LeetCode/0 目录.md",
+    "_计算机/算法基础课/5 动态规划/2/未命名.md",
+    "_计算机/LeetCode/3068* 最大节点价值之和.md",
+    "_计算机/C & C++/杂函数.md",
+    "_计算机/算法基础课/3 搜索与图论",
+    "z图片/Pasted image 20250521214354.png",
+    "z图片/Pasted image 20250521214341.png",
+    "Pasted image 20250519144448.png.baiduyun.uploading.cfg",
+    "Pasted image 20250519141609.png.baiduyun.uploading.cfg",
+    "Pasted image 20250519141026.png.baiduyun.uploading.cfg",
+    "_计算机/LeetCode/hot100/560 和为k的子数组.md.baiduyun.uploading.cfg",
+    "_计算机/LeetCode/0 目录.md.baiduyun.uploading.cfg",
+    "_物理/固体物理学/5 金属电子论/5.2 金属的费米面.md.baiduyun.uploading.cfg",
+    "_物理/科学研究方法/3 科技论文与学术表达.md.baiduyun.uploading.cfg",
+    "_物理/固体物理学/5 金属电子论/5.4 金属的电导、热导.md.baiduyun.uploading.cfg",
+    "_计算机/算法基础课/2 数据结构"
+  ]
+}
