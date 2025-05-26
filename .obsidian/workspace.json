@@ -4,25 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "ea3ce8eddf1cbb16",
+        "id": "a138fb8b8aeaf681",
         "type": "tabs",
         "children": [
           {
-            "id": "2ef9881adfb6bc76",
+            "id": "67fc2f65b88ca79a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_计算机/算法基础课/3 搜索与图论/9 Floyd.md",
+                "file": "_物理/半导体物理与器件/-1 复习提纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 Floyd"
+              "title": "-1 复习提纲"
             }
           },
           {
-            "id": "6024ed1280c52cdb",
+            "id": "98e22ad40bd0b3c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/半导体物理与器件/-1 复习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-1 复习"
+            }
+          },
+          {
+            "id": "03671bc5876173f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/半导体物理与器件/4 各种半导体二极管.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 各种半导体二极管"
+            }
+          },
+          {
+            "id": "cd559e6691ccfe45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/纳米材料与技术/-1 考前.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-1 考前"
+            }
+          },
+          {
+            "id": "0eab66192a464c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,57 +251,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6024ed1280c52cdb",
+  "active": "0eab66192a464c4f",
   "lastOpenFiles": [
-    "_计算机/Git.md",
-    "_计算机/算法基础课/3 搜索与图论/9 Floyd.md",
     "_计算机/算法基础课/3 搜索与图论/8 SPFA.md",
+    "图片/Pasted image 20250524215356.png",
+    "_计算机/算法基础课/3 搜索与图论/9 Floyd.md",
     "_计算机/算法基础课/3 搜索与图论/7 Bellman-Ford.md",
-    "_计算机/算法基础课/3 搜索与图论/6 Dijkstra.md",
-    "_物理/半导体物理与器件/3 半导体界面的电子现象.md",
-    "_计算机/LeetCode练习/3355 零数组变换 I.md",
-    "_计算机/LeetCode练习/3068 最大节点价值之和！.md",
-    "_计算机/LeetCode练习/2537 统计好子数组的数目.md",
-    "_计算机/LeetCode练习/2338 统计理想数组的数目（hard）.md",
-    "_计算机/LeetCode练习/2176 统计数组中相等且可以被整除的数对.md",
-    "_计算机/LeetCode练习/2145 统计隐藏数组的数目.md",
-    "_计算机/LeetCode练习/1920 基于排列构建数组.md",
-    "_计算机/LeetCode练习/1922 Count Good Numbers.md",
-    "_计算机/LeetCode练习/1534 好三元数.md",
-    "_计算机/LeetCode练习/781 森林中的兔子.md",
-    "_计算机/LeetCode练习/50 快速幂.md",
-    "_计算机/LeetCode练习/0 目录.md",
     "_杂项/保研/我的自我介绍.md",
-    "_物理/半导体物理与器件/2 半导体的电学性质.md",
-    "conflict-files-obsidian-git.md",
+    "_计算机/Obsidian使用/Markdown语法.md",
+    "_计算机/Obsidian使用/Latex.md",
+    "Obsidian/Markdown语法.md",
+    "_计算机/Git.md",
+    "_杂项/备忘录/进展.md",
+    "_杂项/备忘录/备忘录.md",
+    "_物理/纳米材料与技术/3.1 0D材料的制备.md",
+    "_物理/纳米材料与技术/-1 考前.md",
+    "_物理/半导体物理与器件/4 各种半导体二极管.md",
+    "_物理/半导体物理与器件/-1 复习.md",
+    "_物理/半导体物理与器件/-1 复习提纲.md",
+    "图片/Pasted image 20250525212708.png",
+    "_物理/半导体物理与器件/3 半导体界面的电子现象.md",
+    "_计算机/LeetCode练习/3068 最大节点价值之和！.md",
+    "_杂项/生词.md",
+    "_杂项/diffusion/未命名.md",
+    "_杂项/草稿/草稿.md",
+    "_杂项/备忘录/250425班会.md",
+    "_杂项/备忘录/250204.md",
+    "_杂项/备忘录/250401班会.md",
+    "_杂项/备忘录/250403组会.md",
+    "_杂项/备忘录/250403组会吗.md",
+    "图片/Pasted image 20250417143716.png",
+    "图片/Pasted image 20250407170333.png",
+    "_物理/固体物理学/1 晶体结构/1.1.pdf",
+    "_物理/半导体物理与器件/半导体物理学 刘恩科 第七版 (刘恩科) (Z-Library).pdf",
+    "图片/1747022194098.jpg",
     "图片/未命名.canvas",
     "图片/未命名 1.canvas",
-    "图片/作业4.png",
-    "图片/qq_pic_merged_1747022720201.jpg",
-    "图片/qq_pic_merged_1745204998915.jpg",
-    "图片/hw_h_py155ls7nnk0wo67dabdda92461.png",
-    "图片/f7d228107188b8023ece9d96de2c97d9.png",
-    "图片/Pasted image 20250525212708.png",
-    "图片/Pasted image 20250524215356.png",
+    "图片/Pasted image 20250512141115.png",
     "图片/Pasted image 20250524153308.png",
     "图片/Pasted image 20250524152257.png",
     "图片/Pasted image 20250524143541.png",
-    "图片",
-    "_计算机/LeetCode练习/hot100/560 和为k的子数组.md",
-    "_计算机/LeetCode练习/hot100/5(11)盛最多水的容器.md",
-    "_计算机/LeetCode练习/hot100/32 最长有效括号.md",
-    "_计算机/LeetCode练习/hot100/3(128)最长连续序列.md",
-    "_计算机/LeetCode练习/hot100/279.完全平方数.md",
-    "_计算机/LeetCode练习/hot100",
-    "_计算机/LeetCode练习",
-    "_杂项/草稿",
-    "_杂项/玩",
-    "_杂项/备忘录",
-    "_杂项/保研",
-    "_杂项/diffusion",
-    "_杂项",
-    "_物理/固体物理学/1 晶体结构/1.1.pdf",
-    "z图片/未命名.canvas",
-    "z图片/未命名 1.canvas"
+    "图片/Pasted image 20250524143530.png",
+    "_计算机/算法基础课/3 搜索与图论",
+    "Pasted image 20250519144448.png.baiduyun.uploading.cfg",
+    "Pasted image 20250519141609.png.baiduyun.uploading.cfg",
+    "Pasted image 20250519141026.png.baiduyun.uploading.cfg",
+    "_计算机/LeetCode/hot100/560 和为k的子数组.md.baiduyun.uploading.cfg",
+    "_计算机/LeetCode/0 目录.md.baiduyun.uploading.cfg",
+    "_物理/固体物理学/5 金属电子论/5.2 金属的费米面.md.baiduyun.uploading.cfg",
+    "_物理/科学研究方法/3 科技论文与学术表达.md.baiduyun.uploading.cfg"
   ]
 }
