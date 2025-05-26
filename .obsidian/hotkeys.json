@@ -118,5 +118,13 @@
       ],
       "key": "S"
     }
+  ],
+  "workspace:show-trash": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "\\"
+    }
   ]
 }

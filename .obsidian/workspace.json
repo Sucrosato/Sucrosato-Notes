@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_物理/半导体物理与器件/5 双极型功能器件.md",
+                "file": "_物理/半导体物理与器件/6 MOS型控制器件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 双极型功能器件"
+              "title": "6 MOS型控制器件"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,47 +252,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eab66192a464c4f",
+  "active": "67fc2f65b88ca79a",
   "lastOpenFiles": [
-    "_物理/纳米材料与技术/-1 考前.md",
-    "_计算机/Git.md",
+    "_物理/半导体物理与器件/6 MOS型控制器件.md",
     "_物理/半导体物理与器件/-1 复习.md",
     "_物理/半导体物理与器件/-1 复习提纲.md",
-    "_杂项/备忘录/备忘录.md",
-    "_物理/半导体物理与器件/5 双极型功能器件.md",
-    "Pasted image 20250526204034.png",
-    "Pasted image 20250526195219.png",
-    "_物理/半导体物理与器件/4 各种半导体二极管.md",
-    "_计算机/算法基础课/3 搜索与图论/9 Floyd.md",
-    "_物理/固体物理学/考前.md",
-    "_物理/固体物理学/5 金属电子论/5.6 Drude模型.md",
-    "_物理/固体物理学/5 金属电子论/5.5 功函数 接触电势.md",
-    "_物理/半导体物理与器件/-1 复习题.md",
-    "Pasted image 20250526170621.png",
-    "Pasted image 20250526140728.png",
-    "_计算机/算法基础课/3 搜索与图论/8 SPFA.md",
-    "图片/Pasted image 20250524215356.png",
-    "_计算机/算法基础课/3 搜索与图论/7 Bellman-Ford.md",
-    "_杂项/保研/我的自我介绍.md",
-    "_计算机/Obsidian使用/Markdown语法.md",
-    "_计算机/Obsidian使用/Latex.md",
-    "Obsidian/Markdown语法.md",
-    "_杂项/备忘录/进展.md",
-    "_物理/纳米材料与技术/3.1 0D材料的制备.md",
-    "图片/Pasted image 20250525212708.png",
-    "_物理/半导体物理与器件/3 半导体界面的电子现象.md",
-    "_计算机/LeetCode练习/3068 最大节点价值之和！.md",
+    "图片/Pasted image 20250526195219.png",
+    "图片/Pasted image 20250526204034.png",
+    "README.md",
+    "_计算机/LeetCode练习/206 反转链表.md",
+    "_计算机/LeetCode练习/很神奇的点（错误）.md",
+    "_计算机/LeetCode练习/杂函数.md",
+    "_计算机/LeetCode练习/0 目录.md",
+    "_计算机/LeetCode练习/50 快速幂.md",
+    "图片/6e37d14e8ed71b559f6bcb40fe71ca25.jpg",
+    "图片/Pasted image 20250305143332.png",
+    "图片/Pasted image 20250310141731.png",
+    "图片/Pasted image 20250310150713 1.png",
     "_杂项/生词.md",
+    "图片/Pasted image 20250526140728.png",
     "_杂项/diffusion/未命名.md",
+    "_杂项/玩/Sophie's Aterier.md",
+    "_杂项/草稿/draft.md",
     "_杂项/草稿/草稿.md",
-    "图片/Pasted image 20250417143716.png",
-    "图片/Pasted image 20250407170333.png",
+    "_杂项/保研/MAC需要什么.md",
+    "_杂项/保研/touch.md",
+    "_杂项/保研/cmm汇报示例.md",
+    "_杂项/保研/我的自我介绍.md",
+    "_杂项/保研/经验帖.md",
+    "_杂项/保研/计算机硕士.md",
+    "_杂项/保研/_需要什么.md",
+    "_物理/半导体物理与器件/5 双极型功能器件.md",
+    "_物理/纳米材料与技术/-1 考前.md",
+    "_计算机/Git.md",
+    "_杂项/备忘录/备忘录.md",
+    "图片/Pasted image 20250526170621.png",
+    "图片/Pasted image 20250524215356.png",
+    "图片/Pasted image 20250525212708.png",
     "_物理/固体物理学/1 晶体结构/1.1.pdf",
     "_物理/半导体物理与器件/半导体物理学 刘恩科 第七版 (刘恩科) (Z-Library).pdf",
-    "图片/1747022194098.jpg",
     "图片/未命名.canvas",
     "图片/未命名 1.canvas",
-    "图片/Pasted image 20250512141115.png",
     "_计算机/算法基础课/3 搜索与图论",
     "Pasted image 20250519144448.png.baiduyun.uploading.cfg",
     "Pasted image 20250519141609.png.baiduyun.uploading.cfg",
