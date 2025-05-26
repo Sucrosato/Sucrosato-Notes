@@ -114,9 +114,9 @@
   "obsidian-git:push": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "`"
+      "key": "S"
     }
   ]
 }
