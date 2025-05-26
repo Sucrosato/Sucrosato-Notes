@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "74d54c75c0e36762",
+        "id": "ea3ce8eddf1cbb16",
         "type": "tabs",
         "children": [
           {
-            "id": "07ff901365ef3a00",
+            "id": "2ef9881adfb6bc76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "_物理/半导体物理与器件/3 半导体界面的电子现象.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "3 半导体界面的电子现象"
             }
           }
         ]
@@ -194,8 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b190ca6bc032d3a",
+  "active": "2ef9881adfb6bc76",
   "lastOpenFiles": [
+    "_杂项/保研/我的自我介绍.md",
+    "_物理/半导体物理与器件/3 半导体界面的电子现象.md",
+    "_物理/半导体物理与器件/2 半导体的电学性质.md",
+    "_计算机/Git.md",
     "conflict-files-obsidian-git.md",
     "图片/未命名.canvas",
     "图片/未命名 1.canvas",
@@ -233,10 +237,6 @@
     "_计算机/LeetCode练习/0 目录.md",
     "_计算机/LeetCode练习",
     "_杂项/草稿/草稿.md",
-    "_杂项/草稿/draft.md",
-    "_杂项/玩/看过的.md",
-    "_杂项/玩/想看的影视.md",
-    "_杂项/玩/大采集.md",
     "_杂项/草稿",
     "_杂项/玩",
     "_杂项/备忘录",
