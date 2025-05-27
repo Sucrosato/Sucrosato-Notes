@@ -85,6 +85,7 @@ $$f_T = \frac {g_m}{2\pi L WC_i} = \frac{\mu V_p(夹断电压)}{2\pi L^2}$$
 ## 6.4 MOS存储器
 RAM
     DRAM
+    ![[Pasted image 20250527102753.png]]
     SRAM
     ![[Pasted image 20250513140902.png|300]]
     两边存储相反电位
