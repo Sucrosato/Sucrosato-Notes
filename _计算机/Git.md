@@ -27,6 +27,22 @@ git diff HEAD //工作区和版本区
 git diff --cached //
 git diff \<id1> \<id2>
 HEAD~n //~或^n：上n(1)个版本
+## rm
+%%git ls -ltr%%
+git rm: 在工作区、暂存区同时删除，否则要add后删除
+git rm --cached //只删除暂存区
+## .gitignore
+echo \*.log > .gitignore
+对先前添加到版本库中的文件无效
+小知识点：不添加空文件夹
+
+
+
+
+
+
+
+
 
 ## git太慢
 ~~git config --global http.proxy http://127.0.0.1:7890; git config --global https.proxy https://127.0.0.1:7890
