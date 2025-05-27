@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "f308e84ccac31971",
+    "type": "split",
+    "children": [
+      {
+        "id": "a138fb8b8aeaf681",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd559e6691ccfe45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/纳米材料与技术/draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "draft"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d9162e3a70e8586d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d22a8163c9a01d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/纳米材料与技术/3.1 0D材料的制备.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 0D材料的制备"
+            }
+          },
+          {
+            "id": "55754558b6054dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/纳米材料与技术/3.2 1D纳米材料制备方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.2 1D纳米材料制备方法"
+            }
+          },
+          {
+            "id": "cecc345460499986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/纳米材料与技术/3.3 2D纳米材料制备方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.3 2D纳米材料制备方法"
+            }
+          },
+          {
+            "id": "7f649a0429409393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/纳米材料与技术/3.4 3D纳米材料.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.4 3D纳米材料"
+            }
+          },
+          {
+            "id": "265fa4bf67de8547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/纳米材料与技术/4 纳米材料的表征.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 纳米材料的表征"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a95dfae1cdcfde5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da2f2df2064c090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d3603cd93e426c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "23f429fb53e472f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0401d3203cf825a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "45fcaae729182322",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee39f1cb48e9c3a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad2d4b386a8da751",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ca0e700bb62e9d6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_物理/纳米材料与技术/4 纳米材料的表征.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "4 纳米材料的表征 的大纲"
+            }
+          },
+          {
+            "id": "0b190ca6bc032d3a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "265fa4bf67de8547",
+  "lastOpenFiles": [
+    "_物理/纳米材料与技术/draft.md",
+    "_物理/纳米材料与技术/3.4 3D纳米材料.md",
+    "_物理/纳米材料与技术/3.3 2D纳米材料制备方法.md",
+    "_物理/纳米材料与技术/3.2 1D纳米材料制备方法.md",
+    "_物理/纳米材料与技术/3.1 0D材料的制备.md",
+    "_物理/纳米材料与技术/4 纳米材料的表征.md",
+    "_物理/纳米材料与技术/-1 考前.md",
+    "_物理/纳米材料与技术/2 纳米材料和纳米技术概述.md",
+    "Pasted image 20250527201647.png",
+    "_物理/半导体物理与器件/4 各种半导体二极管.md",
+    "_物理/半导体物理与器件/-1 复习提纲.md",
+    "_物理/半导体物理与器件/-1 复习.md",
+    "-1 复习.pdf",
+    "-1 复习提纲.pdf",
+    "_物理/半导体物理与器件/6 MOS型控制器件.md",
+    "_计算机/Git.md",
+    "Pasted image 20250527104601.png",
+    "Pasted image 20250527104315.png",
+    "Pasted image 20250527102753.png",
+    "图片/Pasted image 20250526195219.png",
+    "图片/Pasted image 20250526204034.png",
+    "README.md",
+    "_计算机/LeetCode练习/206 反转链表.md",
+    "_计算机/LeetCode练习/很神奇的点（错误）.md",
+    "_计算机/LeetCode练习/杂函数.md",
+    "_计算机/LeetCode练习/0 目录.md",
+    "_计算机/LeetCode练习/50 快速幂.md",
+    "图片/6e37d14e8ed71b559f6bcb40fe71ca25.jpg",
+    "图片/Pasted image 20250305143332.png",
+    "图片/Pasted image 20250310141731.png",
+    "图片/Pasted image 20250310150713 1.png",
+    "_杂项/生词.md",
+    "_杂项/diffusion/未命名.md",
+    "_杂项/玩/Sophie's Aterier.md",
+    "_杂项/草稿/draft.md",
+    "_杂项/草稿/草稿.md",
+    "_杂项/保研/MAC需要什么.md",
+    "_杂项/保研/touch.md",
+    "_物理/固体物理学/1 晶体结构/1.1.pdf",
+    "_物理/半导体物理与器件/半导体物理学 刘恩科 第七版 (刘恩科) (Z-Library).pdf",
+    "图片/未命名.canvas",
+    "图片/未命名 1.canvas",
+    "_计算机/算法基础课/3 搜索与图论",
+    "Pasted image 20250519144448.png.baiduyun.uploading.cfg",
+    "Pasted image 20250519141609.png.baiduyun.uploading.cfg",
+    "Pasted image 20250519141026.png.baiduyun.uploading.cfg",
+    "_计算机/LeetCode/hot100/560 和为k的子数组.md.baiduyun.uploading.cfg",
+    "_计算机/LeetCode/0 目录.md.baiduyun.uploading.cfg"
+  ]
+}
