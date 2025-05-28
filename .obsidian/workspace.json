@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_物理/固体物理学/0 复习 & 重点.md",
+                "file": "_物理/科学研究方法/3 科技论文与学术表达.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 复习 & 重点"
+              "title": "3 科技论文与学术表达"
             }
           }
         ]
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,9 +198,9 @@
   },
   "active": "cd559e6691ccfe45",
   "lastOpenFiles": [
+    "_物理/固体物理学/0 复习 & 重点.md",
     "_物理/固体物理学/5 金属电子论/5.3 金属费米面的实验测定.md",
     "_物理/固体物理学/5 金属电子论/5.2 金属的费米面.md",
-    "_物理/固体物理学/0 复习 & 重点.md",
     "_物理/固体物理学/考前.md",
     "_物理/固体物理学/1 晶体结构/1.1.pdf",
     "_物理/固体物理学/5 金属电子论/5.6 Drude模型.md",
