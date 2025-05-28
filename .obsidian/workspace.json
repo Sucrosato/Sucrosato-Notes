@@ -4,35 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "a138fb8b8aeaf681",
+        "id": "db29e6a131dec78d",
         "type": "tabs",
         "children": [
           {
-            "id": "03671bc5876173f0",
+            "id": "6633377988c6c5bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_物理/纳米材料与技术/1 绪论.md",
+                "file": "_物理/物理学科前沿讲座/0 作业.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 绪论"
+              "title": "0 作业"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "fe772fd968c11688",
+        "type": "tabs",
+        "children": [
           {
             "id": "cd559e6691ccfe45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_物理/纳米材料与技术/4 纳米材料的表征.md",
+                "file": "_物理/物理学科前沿讲座/0 作业要求.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 纳米材料的表征"
+              "title": "0 作业要求"
+            }
+          },
+          {
+            "id": "7fe336c0fc9f18c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_物理/物理学科前沿讲座/3 王建元 超声材料科学与技术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 王建元 超声材料科学与技术"
             }
           }
         ],
@@ -195,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +230,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd559e6691ccfe45",
+  "active": "6633377988c6c5bc",
   "lastOpenFiles": [
+    "_物理/物理学科前沿讲座/3 王建元 超声材料科学与技术.md",
+    "_物理/物理学科前沿讲座/0 作业.md",
+    "_物理/物理学科前沿讲座/杨德兴-新型光纤布拉格光栅的制备及光谱特性研究.md",
+    "_物理/物理学科前沿讲座/尹建波 智能材料.md",
+    "_物理/物理学科前沿讲座/闫娜 金属材料在高应变速率下的剪切局部化.md",
+    "_物理/物理学科前沿讲座/2 阮莹 多孔金属的无容器制备技术探索.md",
+    "_物理/物理学科前沿讲座/1 姜碧强 光纤光栅集成器件及应用.md",
+    "_物理/物理学科前沿讲座/0 作业要求.md",
+    "_物理/物理学科前沿讲座/谢鑫 光学超表面.md",
+    "_物理/纳米材料与技术/4 纳米材料的表征.md",
     "_物理/纳米材料与技术/3.4 3D纳米材料.md",
     "_物理/纳米材料与技术/3.3 2D纳米材料制备方法.md",
     "_物理/纳米材料与技术/3.2 1D纳米材料制备方法.md",
@@ -232,22 +263,12 @@
     "_计算机/LeetCode练习/206 反转链表.md",
     "_杂项/玩/Sophie's Aterier.md",
     "_杂项/保研/经验帖.md",
-    "_杂项/保研/cmm汇报示例.md",
     "Pasted image 20250527104601.png",
     "Pasted image 20250527104315.png",
     "Pasted image 20250527102753.png",
-    "_物理/半导体物理与器件/-1 复习.md",
     "Pasted image 20250526170621.png",
-    "_物理/固体物理学/5 金属电子论/5.6 Drude模型.md",
-    "_物理/固体物理学/作业/作业6.md",
-    "_物理/固体物理学/考前.md",
     "_物理/固体物理学/1 晶体结构/1.1.pdf",
     "_物理/固体物理学/1 晶体结构/1.2.pdf",
-    "_物理/固体物理学/1 晶体结构/1.3 晶体结构的对称性与晶系.md",
-    "_物理/固体物理学/1 晶体结构/1.5 晶体衍射的基本方法.md",
-    "_物理/固体物理学/1 晶体结构/1.4 倒格子.md",
-    "_物理/固体物理学/作业/作业7.md",
-    "_物理/固体物理学/作业/作业2.md",
     "Pasted image 20250526140728.png",
     "_物理/半导体物理与器件/半导体物理学 刘恩科 第七版 (刘恩科) (Z-Library).pdf",
     "图片/未命名.canvas",
