@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_物理/纳米材料与技术/draft.md",
+                "file": "_物理/纳米材料与技术/-1 考前.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft"
+              "title": "-1 考前"
             }
           }
         ]
@@ -203,9 +203,57 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "48578346a42382ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_物理/纳米材料与技术/4 纳米材料的表征.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "4 纳米材料的表征 的反向链接列表"
+            }
+          },
+          {
+            "id": "d3a5dded73cb4307",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_物理/纳米材料与技术/4 纳米材料的表征.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "4 纳米材料的表征 的出链列表"
+            }
+          },
+          {
+            "id": "e6f2ec519dbe4c7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -225,13 +273,14 @@
   },
   "active": "265fa4bf67de8547",
   "lastOpenFiles": [
+    "_物理/纳米材料与技术/-1 考前.md",
+    "_物理/纳米材料与技术/4 纳米材料的表征.md",
     "_物理/纳米材料与技术/draft.md",
+    "_计算机/Git.md",
     "_物理/纳米材料与技术/3.4 3D纳米材料.md",
     "_物理/纳米材料与技术/3.3 2D纳米材料制备方法.md",
     "_物理/纳米材料与技术/3.2 1D纳米材料制备方法.md",
     "_物理/纳米材料与技术/3.1 0D材料的制备.md",
-    "_物理/纳米材料与技术/4 纳米材料的表征.md",
-    "_物理/纳米材料与技术/-1 考前.md",
     "_物理/纳米材料与技术/2 纳米材料和纳米技术概述.md",
     "Pasted image 20250527201647.png",
     "_物理/半导体物理与器件/4 各种半导体二极管.md",
@@ -240,7 +289,6 @@
     "-1 复习.pdf",
     "-1 复习提纲.pdf",
     "_物理/半导体物理与器件/6 MOS型控制器件.md",
-    "_计算机/Git.md",
     "Pasted image 20250527104601.png",
     "Pasted image 20250527104315.png",
     "Pasted image 20250527102753.png",
