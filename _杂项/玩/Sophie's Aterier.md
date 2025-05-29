@@ -87,3 +87,7 @@
 ![[Pasted image 20250405131057.png]]![[Pasted image 20250405131135.png]]
 4
 ![[Pasted image 20250405131502.png]]
+## 塞尔加德大山峰
+#### 1 穿孔断崖
+![[Pasted image 20250529211415.png]]
+灵魂之石 钻石原石 飞秒水晶
