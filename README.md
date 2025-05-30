@@ -1,2 +1,4 @@
-## storing my notes
-for obsidian
+## 存储一些上大学做的课内和课外的笔记
+Obsidian是一款用markdown语法编辑笔记的软件，我使用了git和Obsidian的git插件进行远程笔记同步和备份，~~以及可能会有人想看~~  
+由于Obsidian内的markdown没有行末两个空格就可以换行，在其他地方进行markdown预览时可能无法正常显示换行  
+因为是大三下才学会的这种笔记方式，所以以前的手写笔记都没有加入仓库  
