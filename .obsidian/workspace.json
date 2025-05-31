@@ -4,73 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d9162e3a70e8586d",
+        "id": "ea3ce8eddf1cbb16",
         "type": "tabs",
         "children": [
           {
-            "id": "5e60691663a7744a",
+            "id": "e2fe48750835c838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_物理/物理学科前沿讲座/0 作业.md",
+                "file": "_计算机/Python/Python杂函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 作业"
+              "title": "Python杂函数"
             }
           }
         ]
-      },
-      {
-        "id": "09f856266633c1a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d6175703813eed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_物理/物理学科前沿讲座/4 闫娜 金属材料在高应变速率下的剪切局部化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 闫娜 金属材料在高应变速率下的剪切局部化"
-            }
-          },
-          {
-            "id": "b48fe6f89db5b875",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_物理/物理学科前沿讲座/1 姜碧强 光纤光栅集成器件及应用.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 姜碧强 光纤光栅集成器件及应用"
-            }
-          },
-          {
-            "id": "1e2c1b1446089609",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_物理/物理学科前沿讲座/0 作业.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0 作业"
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,6 +89,69 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f3068a87385e718c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_计算机/数据结构/13 串/C KMP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "C KMP 的反向链接列表"
+            }
+          },
+          {
+            "id": "52255fd57ed4424d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_计算机/数据结构/13 串/C KMP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "C KMP 的出链列表"
+            }
+          },
+          {
+            "id": "05ef609c43b28d7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ca0e700bb62e9d6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_计算机/Git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Git 的大纲"
+            }
+          },
+          {
             "id": "ad2d4b386a8da751",
             "type": "leaf",
             "state": {
@@ -152,21 +166,6 @@
             }
           },
           {
-            "id": "ca0e700bb62e9d6b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "_物理/纳米材料与技术/4 纳米材料的表征.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "4 纳米材料的表征 的大纲"
-            }
-          },
-          {
             "id": "0b190ca6bc032d3a",
             "type": "leaf",
             "state": {
@@ -175,61 +174,14 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "48578346a42382ca",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "_物理/纳米材料与技术/4 纳米材料的表征.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "4 纳米材料的表征 的反向链接列表"
-            }
-          },
-          {
-            "id": "d3a5dded73cb4307",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "_物理/纳米材料与技术/4 纳米材料的表征.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "4 纳米材料的表征 的出链列表"
-            }
-          },
-          {
-            "id": "e6f2ec519dbe4c7f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,55 +195,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e60691663a7744a",
+  "active": "e2fe48750835c838",
   "lastOpenFiles": [
+    "_计算机/Python/PyTorch/未命名.md",
+    "_计算机/Python/Python杂函数.md",
+    "_计算机/Linux/常见问题.md",
+    "_计算机/算法基础课/3 搜索与图论/9 Floyd.md",
+    "图片/Pasted image 20250529211415.png",
+    "conflict-files-obsidian-git.md",
+    "未命名.md",
+    "图片/Pasted image 20250526204034.png",
+    "图片/Pasted image 20250526195219.png",
+    "图片/Pasted image 20250526170621.png",
+    "图片/Pasted image 20250526140728.png",
+    "_计算机/LeetCode练习/杂函数.md",
+    "_计算机/LeetCode练习/很神奇的点（错误）.md",
+    "_计算机/LeetCode练习/206 反转链表.md",
+    "_物理/纳米材料与技术/draft.md",
+    "_物理/物理学科前沿讲座/尹建波 智能材料.md",
+    "_物理/物理学科前沿讲座/5 谢鑫 光学超表面.md",
+    "_物理/物理学科前沿讲座/4 闫娜 金属材料在高应变速率下的剪切局部化.md",
+    "_物理/物理学科前沿讲座/3 王建元 超声材料科学与技术.md",
+    "_物理/物理学科前沿讲座/2 阮莹 多孔金属的无容器制备技术探索.md",
+    "_物理/物理学科前沿讲座/1 姜碧强 光纤光栅集成器件及应用.md",
     "_物理/物理学科前沿讲座/0 作业要求.md",
     "_物理/物理学科前沿讲座/0 作业.md",
-    "_物理/物理学科前沿讲座/2 阮莹 多孔金属的无容器制备技术探索.md",
-    "未命名.md",
-    "_物理/物理学科前沿讲座/1 姜碧强 光纤光栅集成器件及应用.md",
-    "_物理/物理学科前沿讲座/3 王建元 超声材料科学与技术.md",
-    "_物理/物理学科前沿讲座/4 闫娜 金属材料在高应变速率下的剪切局部化.md",
-    "_物理/物理学科前沿讲座/5 谢鑫 光学超表面.md",
-    "_物理/物理学科前沿讲座/杨德兴-新型光纤布拉格光栅的制备及光谱特性研究.md",
-    "_杂项/玩/想看的影视.md",
-    "_物理/纳米材料与技术/3.3 2D纳米材料制备方法.md",
-    "_物理/纳米材料与技术/3.2 1D纳米材料制备方法.md",
-    "_物理/纳米材料与技术/3.1 0D材料的制备.md",
-    "_杂项/玩/看过的.md",
-    "_计算机/Cancer/cancer.md",
-    "_计算机/Cancer/4.26.md",
-    "_计算机/Cancer/4.21.md",
-    "_计算机/Cancer/4.18.md",
-    "_计算机/Cancer/4.13.md",
-    "_计算机/Cancer/4.10.md",
-    "_计算机/Linux/常见问题.md",
-    "_物理/物理学科前沿讲座/尹建波 智能材料.md",
+    "_物理/固体物理学/考前.md",
+    "_物理/固体物理学/5 金属电子论/5.6 Drude模型.md",
+    "_物理/固体物理学/5 金属电子论/5.5 功函数 接触电势.md",
+    "_物理/固体物理学/0 复习 & 重点.md",
+    "_物理/半导体物理与器件/-1 复习题.md",
     "_杂项/玩/Sophie's Aterier.md",
-    "Pasted image 20250529211415.png",
-    "_物理/纳米材料与技术/3.4 3D纳米材料.md",
-    "_物理/纳米材料与技术/-1 考前.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20250527201647.png",
-    "-1 复习.pdf",
-    "-1 复习提纲.pdf",
-    "Pasted image 20250527104601.png",
-    "Pasted image 20250527104315.png",
-    "Pasted image 20250527102753.png",
-    "图片/Pasted image 20250526195219.png",
-    "图片/Pasted image 20250526204034.png",
-    "图片/6e37d14e8ed71b559f6bcb40fe71ca25.jpg",
-    "图片/Pasted image 20250305143332.png",
-    "图片/Pasted image 20250310141731.png",
-    "_物理/固体物理学/1 晶体结构/1.1.pdf",
-    "_物理/半导体物理与器件/半导体物理学 刘恩科 第七版 (刘恩科) (Z-Library).pdf",
+    "_杂项/保研/经验帖.md",
+    "_杂项/保研/cmm汇报示例.md",
+    "图片/Pasted image 20250527201647.png",
+    "图片/Pasted image 20250527104601.png",
+    "图片/Pasted image 20250527104315.png",
+    "图片/Pasted image 20250527102753.png",
     "图片/未命名.canvas",
     "图片/未命名 1.canvas",
-    "_计算机/算法基础课/3 搜索与图论",
-    "Pasted image 20250519144448.png.baiduyun.uploading.cfg",
-    "Pasted image 20250519141609.png.baiduyun.uploading.cfg",
-    "Pasted image 20250519141026.png.baiduyun.uploading.cfg",
-    "_计算机/LeetCode/hot100/560 和为k的子数组.md.baiduyun.uploading.cfg",
-    "_计算机/LeetCode/0 目录.md.baiduyun.uploading.cfg"
+    "图片/作业4.png",
+    "图片",
+    "_计算机/LeetCode练习/hot100",
+    "_计算机/LeetCode练习",
+    "_杂项/草稿",
+    "_杂项/玩",
+    "_杂项/备忘录",
+    "_杂项/保研",
+    "_杂项/diffusion",
+    "_杂项",
+    "_物理/固体物理学/1 晶体结构/1.1.pdf",
+    "z图片/未命名.canvas",
+    "z图片/未命名 1.canvas"
   ]
 }
