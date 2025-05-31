@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "f308e84ccac31971",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea3ce8eddf1cbb16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2fe48750835c838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_计算机/Python/Python杂函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python杂函数"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a95dfae1cdcfde5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da2f2df2064c090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d3603cd93e426c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "23f429fb53e472f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0401d3203cf825a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "45fcaae729182322",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee39f1cb48e9c3a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3068a87385e718c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_计算机/数据结构/13 串/C KMP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "C KMP 的反向链接列表"
+            }
+          },
+          {
+            "id": "52255fd57ed4424d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_计算机/数据结构/13 串/C KMP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "C KMP 的出链列表"
+            }
+          },
+          {
+            "id": "05ef609c43b28d7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ca0e700bb62e9d6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_计算机/Git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Git 的大纲"
+            }
+          },
+          {
+            "id": "ad2d4b386a8da751",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "0b190ca6bc032d3a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e2fe48750835c838",
+  "lastOpenFiles": [
+    "_计算机/Python/PyTorch/未命名.md",
+    "_计算机/Python/Python杂函数.md",
+    "_计算机/Linux/常见问题.md",
+    "_计算机/算法基础课/3 搜索与图论/9 Floyd.md",
+    "图片/Pasted image 20250529211415.png",
+    "conflict-files-obsidian-git.md",
+    "未命名.md",
+    "图片/Pasted image 20250526204034.png",
+    "图片/Pasted image 20250526195219.png",
+    "图片/Pasted image 20250526170621.png",
+    "图片/Pasted image 20250526140728.png",
+    "_计算机/LeetCode练习/杂函数.md",
+    "_计算机/LeetCode练习/很神奇的点（错误）.md",
+    "_计算机/LeetCode练习/206 反转链表.md",
+    "_物理/纳米材料与技术/draft.md",
+    "_物理/物理学科前沿讲座/尹建波 智能材料.md",
+    "_物理/物理学科前沿讲座/5 谢鑫 光学超表面.md",
+    "_物理/物理学科前沿讲座/4 闫娜 金属材料在高应变速率下的剪切局部化.md",
+    "_物理/物理学科前沿讲座/3 王建元 超声材料科学与技术.md",
+    "_物理/物理学科前沿讲座/2 阮莹 多孔金属的无容器制备技术探索.md",
+    "_物理/物理学科前沿讲座/1 姜碧强 光纤光栅集成器件及应用.md",
+    "_物理/物理学科前沿讲座/0 作业要求.md",
+    "_物理/物理学科前沿讲座/0 作业.md",
+    "_物理/固体物理学/考前.md",
+    "_物理/固体物理学/5 金属电子论/5.6 Drude模型.md",
+    "_物理/固体物理学/5 金属电子论/5.5 功函数 接触电势.md",
+    "_物理/固体物理学/0 复习 & 重点.md",
+    "_物理/半导体物理与器件/-1 复习题.md",
+    "_杂项/玩/Sophie's Aterier.md",
+    "_杂项/保研/经验帖.md",
+    "_杂项/保研/cmm汇报示例.md",
+    "图片/Pasted image 20250527201647.png",
+    "图片/Pasted image 20250527104601.png",
+    "图片/Pasted image 20250527104315.png",
+    "图片/Pasted image 20250527102753.png",
+    "图片/未命名.canvas",
+    "图片/未命名 1.canvas",
+    "图片/作业4.png",
+    "图片",
+    "_计算机/LeetCode练习/hot100",
+    "_计算机/LeetCode练习",
+    "_杂项/草稿",
+    "_杂项/玩",
+    "_杂项/备忘录",
+    "_杂项/保研",
+    "_杂项/diffusion",
+    "_杂项",
+    "_物理/固体物理学/1 晶体结构/1.1.pdf",
+    "z图片/未命名.canvas",
+    "z图片/未命名 1.canvas"
+  ]
+}
