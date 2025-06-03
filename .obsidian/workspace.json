@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +196,9 @@
   },
   "active": "e2fe48750835c838",
   "lastOpenFiles": [
+    "_物理/固体物理学/作业题.md",
+    "_物理/固体物理学/-1 复习 & 重点.md",
+    "_物理/固体物理学/-1 复习 & 重点 1.md",
     "_计算机/Python/PyTorch/未命名.md",
     "_计算机/Python/Python杂函数.md",
     "_计算机/Linux/常见问题.md",
@@ -225,9 +227,6 @@
     "_物理/固体物理学/5 金属电子论/5.5 功函数 接触电势.md",
     "_物理/固体物理学/0 复习 & 重点.md",
     "_物理/半导体物理与器件/-1 复习题.md",
-    "_杂项/玩/Sophie's Aterier.md",
-    "_杂项/保研/经验帖.md",
-    "_杂项/保研/cmm汇报示例.md",
     "图片/Pasted image 20250527201647.png",
     "图片/Pasted image 20250527104601.png",
     "图片/Pasted image 20250527104315.png",

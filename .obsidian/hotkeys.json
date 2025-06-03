@@ -126,5 +126,13 @@
       ],
       "key": "\\"
     }
+  ],
+  "obsidian-latex-suite:latex-suite-box-equation": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
   ]
 }
