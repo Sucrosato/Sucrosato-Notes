@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Python杂函数"
             }
+          },
+          {
+            "id": "be3dce3970631170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,17 +209,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2fe48750835c838",
+  "active": "be3dce3970631170",
   "lastOpenFiles": [
+    "_计算机/Python/Python杂函数.md",
+    "conflict-files-obsidian-git.md",
+    "图片/Pasted image 20250601173041.png",
+    "图片/Pasted image 20250601163521.png",
+    "图片/Pasted image 20250601153317.png",
+    "_物理/半导体物理与器件/-2 作业.md",
     "_物理/固体物理学/作业题.md",
     "_物理/固体物理学/-1 复习 & 重点.md",
     "_物理/固体物理学/-1 复习 & 重点 1.md",
     "_计算机/Python/PyTorch/未命名.md",
-    "_计算机/Python/Python杂函数.md",
     "_计算机/Linux/常见问题.md",
     "_计算机/算法基础课/3 搜索与图论/9 Floyd.md",
     "图片/Pasted image 20250529211415.png",
-    "conflict-files-obsidian-git.md",
     "未命名.md",
     "图片/Pasted image 20250526204034.png",
     "图片/Pasted image 20250526195219.png",
@@ -225,15 +244,10 @@
     "_物理/固体物理学/考前.md",
     "_物理/固体物理学/5 金属电子论/5.6 Drude模型.md",
     "_物理/固体物理学/5 金属电子论/5.5 功函数 接触电势.md",
-    "_物理/固体物理学/0 复习 & 重点.md",
-    "_物理/半导体物理与器件/-1 复习题.md",
     "图片/Pasted image 20250527201647.png",
     "图片/Pasted image 20250527104601.png",
-    "图片/Pasted image 20250527104315.png",
-    "图片/Pasted image 20250527102753.png",
     "图片/未命名.canvas",
     "图片/未命名 1.canvas",
-    "图片/作业4.png",
     "图片",
     "_计算机/LeetCode练习/hot100",
     "_计算机/LeetCode练习",
