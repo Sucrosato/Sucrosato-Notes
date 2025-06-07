@@ -119,14 +119,6 @@
       "key": "S"
     }
   ],
-  "workspace:show-trash": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "\\"
-    }
-  ],
   "obsidian-latex-suite:latex-suite-box-equation": [
     {
       "modifiers": [
