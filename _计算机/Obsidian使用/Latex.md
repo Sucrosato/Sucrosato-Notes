@@ -16,3 +16,4 @@ $$f(x)=\begin{cases}
 -A_{l}&if ~r\leq a_{M} \\
 -\frac{Ze^2}{r}&if~r>a_{M}
 \end{cases}$$
+$$\langle a|b \rangle$$
