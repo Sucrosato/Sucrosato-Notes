@@ -144,5 +144,13 @@
       ],
       "key": "2"
     }
+  ],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
   ]
 }
