@@ -1,0 +1,9 @@
+CapsLock::Esc
++CapsLock::CapsLock
+!i::Up
+!k::Down
+!j::Left
+!l::Right
+!u::Home
+!o::End
+!Backspace::Delete
